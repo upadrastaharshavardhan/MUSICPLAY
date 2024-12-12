@@ -1,16 +1,16 @@
 {
-  "name": "wynk",
+  "name": "MUSICPLAY",
   "version": "1.1.0",
-  "description": "Electron-based desktop wrapper for Wynk music",
-  "homepage": "https://github.com/jothi-prasath/wynk-music",
+  "description": "Electron-based desktop wrapper for MUSICPLAY",
+  "homepage": "https://github.com/upadrastaharshavardhan/MUSICPLAY",
   "repository": {
-    "url": "git+https://github.com/jothi-prasath/wynk-music.git"
+    "url": "git+https://github.com/upadrastaharshavardhan/MUSICPLAY"
   },
   "bugs": {
-    "url": "https://github.com/jothi-prasath/wynk-music/issues"
+    "url": "https://github.com/upadrastaharshavardhan/MUSICPLAY/issues"
   },
   "main": "index.js",
-  "author": "Jothi Prasath <jothiprasath2@gmail.com>",
+  "author": "upadrastaharshavardhan <upadrastaharsha09@gmail.com>",
   "scripts": {
     "start": "electron .",
     "build": "electron-packager . --overwrite --asar=true --platform=win32 --arch=ia32 --icon=build/icon.ico --prune=true --out=dist"
