@@ -124,14 +124,14 @@ const mainMenuTemplate = [
             label: "Report Bugs/Issues",
             click: () => {
               shell.openExternal(
-                "https://github.com/jothi-prasath/wynk-music/issues"
+                "https://github.com/upadrastaharshavardhan/MUSICPLAY/issues"
               );
             },
           },
           {
             label: "Repository",
             click: () => {
-              shell.openExternal("https://github.com/jothi-prasath/wynk-music");
+              shell.openExternal("https://github.com/upadrastaharshavardhan/MUSICPLAY");
             },
           },
         ],
